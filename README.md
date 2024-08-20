@@ -7,7 +7,6 @@
 1. [Installation and Dependencies](#installation-and-dependencies)
 2. [How to Play](#how-to-play)
 3. [Architecture](#architecture)
-4. [License](#license)
 
 ## Installation and Dependencies
 
@@ -65,7 +64,3 @@ Atomic Chess follows most of the traditional rules of chess but with a key diffe
 #### def main():
 * Initiates the game and maintains gameplay until game state indicates a winner.
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
